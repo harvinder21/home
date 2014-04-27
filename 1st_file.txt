@@ -1,2 +1,4 @@
 delete text of master file
 add this line
+delete text of master file
+add this line
